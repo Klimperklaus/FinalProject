@@ -44,7 +44,7 @@ video {
   height: 180px;
   background-image: url(./images/banner.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 .nav:hover {
