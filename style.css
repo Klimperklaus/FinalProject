@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: "Protest Revolution";
+  src: url(./ProtestRevolution-Regular.ttf) format("truetype"),
+    url(./ProtestRevolution-Regular.woff) format("woff");
+}
+
+.banner {
+  height: 180px;
+  width: 150px;
+}
+
+.logo {
+  width: 150px;
+}
+
+video {
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+.game-name {
+  font-family: "Protest Revolution", sans-serif;
+}
