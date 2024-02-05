@@ -54,3 +54,9 @@ video {
     0 -18px 40px #f00;
   scale: 1.2;
 }
+
+.frame {
+  width: 90%;
+  height: 72vh;
+  opacity: 0.9;
+}
