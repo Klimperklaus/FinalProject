@@ -8,7 +8,7 @@ export default defineConfig({
       input: {
         index: resolve("./index.html"),
         getgame: resolve("./getthegame.html"),
-        guides: resolve("./guides.html"),
+        specs: resolve("./specs.html"),
         social: resolve("./social.html"),
         team: resolve("./team.html"),
         impres: resolve("./impress.html"),
