@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
+    "postcss-nesting": "^12.0.2",
     "vite": "^5.0.8"
   },
   "dependencies": {
