@@ -50,3 +50,13 @@ video {
     0 -18px 40px #f00;
   scale: 1.2;
 }
+
+main {
+  background-image: url(./images/frame2.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 75vh;
+  opacity: 0.9;
+}
